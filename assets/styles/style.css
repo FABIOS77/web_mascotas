@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    color: #0D1A12;
+}
+body{
+    margin: 0;
+    background-color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
